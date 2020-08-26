@@ -1,0 +1,21 @@
+.single-item {
+    transition: .5s;
+    cursor: pointer;
+}
+
+.single-item:hover{
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
+}
+
+.card{
+    border: none;
+}
+
+.card-body {
+    padding-bottom: 0;
+  }
+
+  .card-img-top {
+    width: 75%;
+    margin: 0 auto;
+  }
